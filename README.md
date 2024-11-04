@@ -1,7 +1,7 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
 ### NAME: S.NAVINKUMAR
 ### REG.NO: 24901075
-### EXPERIMENT-2: BOOLEAN FUNCTION
+### EXPERIMENT-2: BOOLEAN FUNCTION IMPLEMENTATION
 
 #### AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
