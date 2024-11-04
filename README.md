@@ -5,7 +5,9 @@
 
 #### AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
+
 𝐹1=𝐴′𝐵′𝐶′𝐷′+𝐴𝐶′𝐷′+𝐵′𝐶𝐷′+𝐴′𝐵𝐶𝐷+𝐵𝐶′𝐷
+
 𝐹2=𝑥𝑦′𝑧+𝑥′𝑦′𝑧+𝑤′𝑥𝑦+𝑤𝑥′𝑦+𝑤𝑥𝑦
 #### EQUIPMENT REQURIED:
 
