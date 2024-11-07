@@ -75,11 +75,6 @@ Steps in Quartus
   By using Quartus and Verilog programming, we can efficiently design, implement, and verify Boolean functions like F1 and 
 F2. Quartus provides a platform for synthesizing the Verilog code into hardware, while simulation allows us to test and ensure that the functions behave as expected across all input combinations. This approach is essential for designing reliable digital systems.
 
-#### LOGIC DIAGRAM:
-![Screenshot 2024-11-04 164409](https://github.com/user-attachments/assets/1e71f893-9c6f-4f18-8fda-9c47bc835bfc)
-
-![Screenshot 2024-11-04 164350](https://github.com/user-attachments/assets/488cdb05-9e50-4548-8021-4381ce8b1ca5)
-
 #### PROCEDURE:
 
 1.	Type the program in Quartus software.
@@ -111,6 +106,12 @@ F2. Quartus provides a platform for synthesizing the Verilog code into hardware,
 ##### assign f1=x1|x2|x3|x4|x5;
 ##### assign f2=x6|x7|x8|x9|x10;
 ##### endmodule
+
+#### TRUTH TABLE:
+![Screenshot 2024-11-04 164409](https://github.com/user-attachments/assets/acb3ef21-0884-42b1-9755-9fd47eb97cab)
+
+![Screenshot 2024-11-04 164350](https://github.com/user-attachments/assets/e58f150e-ae63-4f15-95cc-52d766062906)
+
 
 #### RTL OUTPUT:
 ![Screenshot 2024-11-04 103309](https://github.com/user-attachments/assets/8ba8ab3d-29bd-415b-ac87-e0d700072add)
