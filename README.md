@@ -121,5 +121,5 @@ F2. Quartus provides a platform for synthesizing the Verilog code into hardware,
 
 #### RESULT:
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+Thus the given logic functions are implemented using Quartus and their operations are verified using Verilog programming.
 
