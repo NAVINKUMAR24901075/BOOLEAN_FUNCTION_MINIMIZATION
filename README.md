@@ -1,6 +1,6 @@
-# NAME: S.NAVINKUMAR
-# REG.NO: 24901075
-# EXPERIMENT-2: BOOLEAN FUNCTION IMPLEMENTATION
+## NAME: S.NAVINKUMAR
+## REG.NO: 24901075
+# EXPERIMENT-2: IMPLEMENTATION OF BOOLEAN FUNCTION MINIMIZATION
 
 # AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -122,5 +122,5 @@ endmodule
 
 # RESULT:
 
-Thus the given logic functions are implemented using Quartus and their operations are verified using Verilog programming.
+Thus the given logic functions are implemented using Quartus and their operations are verified using Verilog programming successfully.
 
